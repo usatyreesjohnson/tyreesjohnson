@@ -97,7 +97,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
           Built in{''}
-          <img src="/react-js.png" alt="reactjs" width="100"/> & <img src="/nextjs.png" alt="nextjs" width="80"/> 
+          <img src="/react-js.png" alt="reactjs" width="100"/> & <img src="/nextjs.png" alt="next-js" width="80"/> 
       </footer>
     </div>
   )
