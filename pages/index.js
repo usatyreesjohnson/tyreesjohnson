@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-        <img src="/me.png" alt="tyrees johnson" className="me"></img>
+        <img src="/me2.png" alt="tyrees johnson" className="me"></img>
         </h1>
 
         <style jsx> {`
