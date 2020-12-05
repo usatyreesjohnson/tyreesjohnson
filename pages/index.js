@@ -18,7 +18,7 @@ export default function Home() {
          
         .me {
           width:150px;
-          border-radius:20px;
+          border-radius:100px;
           border:solid 3px #000;
         }
 
